@@ -13,11 +13,11 @@ Feel free to remove sections which do not make sense.
 
 <!--
 
-Some description of HOW you achieved it. Perhaps give a high level description of the program flow. Did you need to refactor something? What tradeoffs did you take? Are there things in here which you’d particularly like people to pay close attention to?
+Some description of HOW you achieved it. Perhaps give a high level description of the program flow. Did you need to refactor something? What trade-offs did you take? Are there things in here which you’d particularly like people to pay close attention to?
 
 -->
 
-## How to Test
+## How to test
 
 <!--
 
@@ -27,26 +27,23 @@ A "How To Test" section can look something like this:
 
 - Sign in with a user with tracks
 - Activate `show_awesome_cat_gifs` feature (add `?feature.show_awesome_cat_gifs=1` to your URL)
+
 -->
 
-## Entitlement changes
+## Entitlement Changes
 
-<!--
-List of entitlments being introduced or updated
--->
+<!-- List of entitlements being introduced or updated -->
 
-## CleanUp Tasks (prod deploys)
+## Cleanup Tasks (production deployments)
 
-<!--  -->
-
-### All Prod deployments
+### All Production deployments
 
 - [ ] Feature branch(es) removed from repository
 - [ ] AWS feature branch resoures removed (Cloud Formation stack for APIs, preview deploy for web apps)
 - [ ] All tech debt added and labelled in Shortcut
 - [ ] Documentation up to date
 
-### Initial Prod deployments
+### Initial Production Deployments
 
 - [ ] Branch protection rules implemented
 - [ ] Repository configured in Swarmia
@@ -54,4 +51,4 @@ List of entitlments being introduced or updated
 
 ## Links
 
-<!-- links to miro boards or figma design -->
+<!-- Links to Miro boards or Figma design -->
