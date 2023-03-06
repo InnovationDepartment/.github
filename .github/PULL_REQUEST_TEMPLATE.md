@@ -17,6 +17,17 @@ Some description of HOW you achieved it. Perhaps give a high level description o
 
 -->
 
+## Checks (development)
+
+- [ ] Open API specs up to date
+- [ ] All API handlers unit tested
+- [ ] All processor methods unit tested
+- [ ] Proxies contain no business logic
+- [ ] Custom errors are caught in handlers
+- [ ] API POST request formats are validated in handler using middleware
+- [ ] Entitlements and principal for handlers are correct and are in `proxima.auth.access`
+- [ ] Proper HTTP response codes are sent back in handlers
+
 ## How to test
 
 <!--
@@ -36,7 +47,7 @@ A "How To Test" section can look something like this:
 
 ## Cleanup Tasks (production deployments)
 
-### All Production deployments
+### All Production Deployments
 
 - [ ] Feature branch(es) removed from repository
 - [ ] AWS feature branch resoures removed (Cloud Formation stack for APIs, preview deploy for web apps)
