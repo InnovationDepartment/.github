@@ -27,6 +27,7 @@ Some description of HOW you achieved it. Perhaps give a high level description o
 - [ ] API POST request formats are validated in handler using middleware
 - [ ] Entitlements and principal for handlers are correct and are in `proxima.auth.access`
 - [ ] Proper HTTP response codes are sent back in handlers
+- [ ] Applies all [Serverless upgrades](https://docs.google.com/spreadsheets/d/11wLrZ_MK5maaTpUfn7olxZIxOS731FdFNUcwgVyX1s4/edit#gid=1604261873) in "Implement" stage
 
 ## How to test
 
