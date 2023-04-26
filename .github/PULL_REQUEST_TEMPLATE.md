@@ -53,6 +53,7 @@ A "How To Test" section can look something like this:
 - [ ] AWS feature branch resoures removed (Cloud Formation stack for APIs, preview deploy for web apps)
 - [ ] All tech debt added and labelled in Shortcut
 - [ ] Documentation up to date
+- [ ] Applies all [Serverless upgrades](https://docs.google.com/spreadsheets/d/11wLrZ_MK5maaTpUfn7olxZIxOS731FdFNUcwgVyX1s4/edit#gid=1604261873) in "Implement" stage
 
 ### Initial Production Deployments
 
