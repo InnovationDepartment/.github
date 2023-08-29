@@ -64,3 +64,7 @@ A "How To Test" section can look something like this:
 ## Links
 
 <!-- Links to Miro boards or Figma design -->
+
+## Review checklist
+
+- https://docs.google.com/document/d/1DkztiJ90szx1z_VFa2IomJtwTSXVXe9AArM5rBoT3fE/edit?usp=sharing
